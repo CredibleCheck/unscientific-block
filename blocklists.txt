@@ -1,7 +1,7 @@
-||healthline.com^
-||herbalgram.org^
-||abqnaturalhealthcenter.com^
-||geeksforgeeks.org/fundamentals-of-algorithms/$document
+healthline.com^
+herbalgram.org^
+abqnaturalhealthcenter.com^
+geeksforgeeks.org/fundamentals-of-algorithms/$document
 www.youtube.com/feed/subscriptions/$document
 yt3.googleusercontent.com/3m7YWoidzuek7zpRiyFbszyDeNGiWvW2G3gu2TCx2N99i7d5AhZO6HP7PsdsyrlUQVd-eo_ZI-Q=s176-c-k-c0x00ffffff-no-rj
 www.youtube.com/watch?v=OBff5ev4wWA$document
