@@ -1,0 +1,9 @@
+youtube.com##a[href="/watch?v=fbcGXpgXnqc"]:upward(#dismissible)
+youtube.com##a[href="/watch?v=JQLygp7ao3A"]:upward(#dismissible)
+
+
+youtube.com##a[href="/watch?v=B-IAWF3ilz8"]:upward(#dismissible)
+
+youtube.com##a[href="/watch?v=Y5byIexcswA"]:upward(#dismissible)
+
+youtube.com##a[href^="/watch?v=15p6fVTdB2A"]:upward(#dismissible)
