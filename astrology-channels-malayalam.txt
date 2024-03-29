@@ -1,0 +1,50 @@
+!block a video
+youtube.com##a[href^="/watch?v=7UJWVVvteaM"]:upward(#dismissible)
+!block all videos of a channel
+youtube.com##a[href^="/@BrightExplainer"]:upward(#dismissible)
+!block a channel result in the search result
+youtube.com##a[href^="/@BrightExplainer"]:upward(ytd-channel-renderer)
+!block from related video section
+youtube.com##.ytd-channel-name[title="Bright Explainer"]:upward(#dismissible)
+
+
+
+
+
+!block all videos of a channel
+youtube.com##a[href^="/@kshethrapuranam2.0"]:upward(#dismissible)
+!block a channel result in the search result
+youtube.com##a[href^="/@kshethrapuranam2.0"]:upward(ytd-channel-renderer)
+!block from related video section
+youtube.com##.ytd-channel-name[title="ക്ഷേത്ര പുരാണം 2.0"]:upward(#dismissible)
+
+
+
+
+
+!block all videos of a channel
+youtube.com##a[href^="/@Santhoshvlogs"]:upward(#dismissible)
+!block a channel result in the search result
+youtube.com##a[href^="/@Santhoshvlogs"]:upward(ytd-channel-renderer)
+!block from related video section
+youtube.com##.ytd-channel-name[title="Santhosh Vlogs"]:upward(#dismissible)
+
+
+
+
+
+!block all videos of a channel
+youtube.com##a[href^="/@KanippayyurAstrology"]:upward(#dismissible)
+!block a channel result in the search result
+youtube.com##a[href^="/@KanippayyurAstrology"]:upward(ytd-channel-renderer)
+!block from related video section
+youtube.com##.ytd-channel-name[title="KanippayyurAstrology"]:upward(#dismissible)
+
+
+
+!block all videos of a channel
+youtube.com##a[href^="/@MangattuTharavadu"]:upward(#dismissible)
+!block a channel result in the search result
+youtube.com##a[href^="/@MangattuTharavadu"]:upward(ytd-channel-renderer)
+!block from related video section
+youtube.com##.ytd-channel-name[title="Mangattu Tharavadu"]:upward(#dismissible)
